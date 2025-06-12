@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de Back-End e Front-End.<br>👯 Estou a procura de estágio e mais aprendizado.<br>🌱 No momento estou estudando JAVA, Programação Orientada a Objetivos, Desenvolvimento WEB e HTML. <br>⚡ Estou cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas na UNICEPLAC de maneira presencial.<br>🤝 Qualquer ajuda será bem-vinda!
+🔭 Sou estudante de Back End.<br>👯 Estou a procura de estágio e mais aprendizado.<br>🌱 No momento estou estudando Desenvolvimento web, Back End. <br>⚡ Estou cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas na UNICEPLAC.<br>🤝 Qualquer ajuda será bem-vinda!
 
 
 ## 🌐 Socials:
