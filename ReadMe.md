@@ -1,5 +1,5 @@
 # 💫 About Me:
- Sou estudante de Back End.<br> Estou a procura de estágio e mais aprendizado.<br> No momento estou estudando Desenvolvimento web, Back End. <br> Estou cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas na UNICEPLAC.<br> Qualquer ajuda será bem-vinda!
+ Backend e web development begginer.<br> Estudo backend em geral, no momento com foco em javascript e nodejs. <br> Estou cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas na UNICEPLAC.<br> À procura de estágio para desenvolver meu aprendizado.<br> Qualquer ajuda será bem-vinda!
 
 
 ## 🌐 Socials:
