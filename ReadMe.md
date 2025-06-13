@@ -11,6 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=felipethewise&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=felipethewise&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipethewise&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=felipethewise&limit=5&theme=radical&combine_all_yearly_contributions=true)
