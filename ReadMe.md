@@ -1,5 +1,5 @@
 # 💫 About Me:
- *Backend and web development begginer.*<br> > *Graduando em Análise e Desenvolvimento de Sistemas na UNICEPLAC.*<br><br> "Estudo backend e desenvolvimento web em geral, porém no momento com foco em javascript e nodejs. Estou à procura de estágio para desenvolver meu aprendizado. Qualquer ajuda será bem-vinda!"
+ Backend and web development begginer.<br> > Graduando em Análise e Desenvolvimento de Sistemas na UNICEPLAC.<br><br> *"Estudo backend e desenvolvimento web em geral, porém no momento com foco em javascript e nodejs. Estou à procura de estágio para desenvolver meu aprendizado. Qualquer ajuda será bem-vinda!"*
 
 
 ## 🌐 Socials:
